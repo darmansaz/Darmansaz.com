@@ -1,0 +1,19 @@
+
+# DNS Verification Instructions for darmansaz.com with GitHub Pages
+
+Follow these steps to verify your custom domain (darmansaz.com) with GitHub Pages:
+
+1. Go to your domain registrar’s DNS settings (e.g., GoDaddy, Namecheap, Hostinger).
+
+2. Add a new TXT record with the following information:
+
+• Record Type: TXT  
+• Name (Host): _github-pages-challenge-darmansaz  
+• Value: 37447d02b1ace2b2f210e0bf0af420  
+• TTL: Automatic or Default
+
+3. Save the record and wait for the changes to propagate. This may take up to 24 hours.
+
+4. Go back to GitHub → Your repo → Settings → Pages → Click "Verify"
+
+If you need support, contact your DNS provider or refer to GitHub Pages documentation.
