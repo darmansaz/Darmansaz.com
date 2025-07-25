@@ -1,0 +1,20 @@
+
+# ڕێنمایی بۆ ڤێریفایکردنی دۆمەینی darmansaz.com لە GitHub
+
+ئەم هەنگاوەکانە جێبەجێ بکە بۆ زیادکردنی TXT Record بۆ ڤێریفایکردنی دۆمەینی GitHub Pages:
+
+١. بچۆ بۆ DNS Settings ـی دۆمەینەکەت (GoDaddy, Namecheap, Hostinger, ...)
+
+٢. زیادکردنی رکۆردێکی نوێ بە ئەم زانیاریانە:
+
+• Record Type: TXT  
+• Name: _github-pages-challenge-darmansaz  
+• Value: 37447d02b1ace2b2f210e0bf0af420  
+• TTL: Automatic (Default)
+
+٣. پاش زیادکردنی رکۆردەکە، چاوەڕێی 5–10 خولەک یان تا 24 کاتژمێر بکە
+
+٤. بچۆ بۆ Settings → Pages لە پڕۆژەی GitHub و کلیک بکە لە Verify ✅
+
+ئەگەر پێویستی بە یارمەتیدا هەبێت، پەیوەندیم پێوە بکە!  
+- دەرمانساز عبدالسمیع
